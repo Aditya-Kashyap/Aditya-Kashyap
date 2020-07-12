@@ -4,7 +4,7 @@ My [**Github**](https://github.com/Aditya-Kashyap) profile potrays my journey fr
 Be sure to make pull requests and I will be happy to review and merge them if required. Also please :star: if you like any, Much Appreciated :hugs: 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Aditya-Kashyap/)
-[![HitCount](http://hits.dwyl.com/Aditya-Kashyap/Aditya-Kashyap.svg)](http://hits.dwyl.com/Aditya-Kashyap/Aditya-Kashyap)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Aditya-Kashyap.visitor-badge)](https://github.com/Aditya-Kashyap)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Aditya-Kashyap)
 
 - 🔭 I’m currently working in Projects [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
