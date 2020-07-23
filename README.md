@@ -12,20 +12,20 @@ Be sure to make pull requests and I will be happy to review and merge them if re
 - 👯 I’m looking to collaborate on [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - 🤔 I’m Intrested to work on Data Science related [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) Tools.
 - 💬 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://https://github.com/Aditya-Kashyap) reguarding the Python Contibutions and for any other Projects related help, I will be very Happy😃 to entertain them.
-- ⚡ Fact: My Profile is [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Aditya-Kashyap) [![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/Aditya-Kashyap)
+- ⚡ [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Aditya-Kashyap) [![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/Aditya-Kashyap)
 
 
 <a href="https://www.linkedin.com/in/aditya-kashyap/">
-  <img align="left" alt="Akshay Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="left" alt="Aditya Kashyap - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://instagram.com/adtya_kashyp">
-  <img align="left" alt="Akshay Saini - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  <img align="left" alt="Aditya Kashyap - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://twitter.com/AddiSinha7">
-  <img align="left" alt="Akshay Saini - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+  <img align="left" alt="Aditya Kashyap - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://facebook.com/">
-  <img align="left" alt="Akshay Saini - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+  <img align="left" alt="Aditya Kashyap - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <br />
 <br />
