@@ -17,7 +17,7 @@ Be sure to make pull requests and I will be happy to review and merge them if re
 
 ### Follow me:
 <a href="https://github.com/Aditya-Kashyap">
-  <img align="left" alt="Aditya Kashyap - Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.js"/>
+  <img align="left" alt="Aditya Kashyap - Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.js"/>
 </a>
 <a href="https://www.linkedin.com/in/aditya-kashyap/">
   <img align="left" alt="Aditya Kashyap - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
