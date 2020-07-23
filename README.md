@@ -15,6 +15,10 @@ Be sure to make pull requests and I will be happy to review and merge them if re
 - ⚡ [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Aditya-Kashyap) [![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/Aditya-Kashyap)
 
 
+### Follow me:
+<a href="https://https://github.com/Aditya-Kashyap">
+  <img align="left" alt="Aditya Kashyap - Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.js"/>
+</a>
 <a href="https://www.linkedin.com/in/aditya-kashyap/">
   <img align="left" alt="Aditya Kashyap - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
