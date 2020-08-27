@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
+
 ### Hey there! Hii 👋
 **Glad to meet you!** :trophy: <br>
 My [**Github**](https://github.com/Aditya-Kashyap) profile potrays my journey from writing program for **LOGO** in my Secondry School to MsDoS, then to first ***Hello world*** program in **JAVA** in my **High School** followed by the first **Commit** to my code in my college project many approx 5 years ago and currenty working with **PYTHON** and with many other languages in a company. It's an ongoing journey with consecutive Efforts and lots of Success and Failures.
