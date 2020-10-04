@@ -3,8 +3,8 @@
 My [**Github**](https://github.com/Aditya-Kashyap) profile potrays my journey from writing program for **LOGO** in my Secondry School to MsDoS, then to first ***Hello world*** program in **JAVA** in my **High School** followed by the first **Commit** to my code in my college project many approx 5 years ago and currenty working with **PYTHON** and with many other languages in a company. It's an ongoing journey with consecutive Efforts and lots of Success and Failures.
 Be sure to make pull requests and I will be happy to review and merge them if required. Also please :star: if you like any, Much Appreciated :hugs: 
 
-### [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Aditya-Kashyap/)
-### ![](https://komarev.com/ghpvc/?username=Aditya-Kashyap&color=blue&label=My+Profile+Views)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Aditya-Kashyap/)
+![](https://komarev.com/ghpvc/?username=Aditya-Kashyap&color=blue&label=My+Profile+Views)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kashyap&layout=compact" alt="Top languages"/>
