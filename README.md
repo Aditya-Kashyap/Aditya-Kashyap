@@ -12,7 +12,7 @@ Be sure to make pull requests and I will be happy to review and merge them if re
 </p>
 
 - 🔭 I’m currently learning **Machine Learning and Data Science** [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-- 👯 I’m looking to collaborate on Data Science related [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) Projects and Tools 
+- 👯 I’m looking to collaborate on Data Science related and [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) Projects and Tools 
 - 💬 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://https://github.com/Aditya-Kashyap) reguarding the Python Contibutions and for any other Projects related help, I will be very Happy😃 to entertain them.
 - ⚡ [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Aditya-Kashyap) [![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/Aditya-Kashyap)
 
