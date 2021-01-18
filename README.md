@@ -22,7 +22,7 @@ Be sure to make pull requests if you want to add something and I will be happy t
 <a href="https://www.linkedin.com/in/aditya-kashyap/">
   <img align="left" alt="Aditya Kashyap - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://instagram.com/adtya_kashyp">
+<a href="https://instagram.com/its_adityakashyap">
   <img align="left" alt="Aditya Kashyap - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://twitter.com/AddiSinha7">
